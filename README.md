@@ -24,10 +24,10 @@ As a very energetic and adaptable person, I am quite the everlearner. With that 
 
 ## I Also Love
 
-:man_cook: Cooking;
-:books: Reading;
-:parrot: Nature;
-:weight_lifting_man: Weightlifting.
+* :man_cook: Cooking;
+* :books: Reading;
+* :parrot: Nature;
+* :weight_lifting_man: Weightlifting.
 
 ### Reach Me At
 

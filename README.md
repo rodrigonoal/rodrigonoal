@@ -21,7 +21,8 @@ As a very energetic and adaptable person, I am quite the everlearner. With that 
 
 ### Dreaming about
 
-* :strawberry: Raspberry PI.
+* :strawberry: Raspberry PI;
+* :closed_lock_with_key: Cryptography.
 
 ## I Also Love
 

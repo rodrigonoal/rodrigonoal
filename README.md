@@ -10,17 +10,18 @@ As a very energetic and adaptable person, I am quite the everlearner. With that 
 
 ### Skill set
 
-![Javascript]() ![HTML]() ![CSS]() ![Express]() ![React]() ![Node.js]() ![VS Code]() ![Git]() ![PostreSQL]()
+<img alt="Javascript" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/javascript-plain.svg" width="50" height="50">        <img alt="HTML" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/html5-original.svg" width="50" height="50">        <img alt="CSS" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/css3-original.svg" width="50" height="50">        <img alt="Express" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/express-original.svg" width="50" height="50">        <img alt="React" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/react-original.svg" width="50" height="50">        <img alt="Node.js" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/nodejs-original.svg" width="50" height="50">        <img alt="VS Code" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/visualstudio-plain.svg" width="50" height="50">        <img alt="Git" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/git-original.svg" width="50" height="50">        <img alt="PostreSQL" src="https://github.com/rodrigonoal/rodrigonoal/blob/main/icons/postgresql-icon.svg" width="50" height="50">
+
 
 ### Now working on
 
-* React;
-* Javascript;
-* A little bit of Python.
+* :electron: React;
+* :vulcan_salute: Javascript;
+* :snake: A little bit of Python.
 
 ### Dreaming about a...
 
-* Raspberry PI.
+* :strawberry: Raspberry PI.
 
 ## I Also Love
 

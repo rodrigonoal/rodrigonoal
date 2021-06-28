@@ -19,7 +19,7 @@ As a very energetic and adaptable person, I am quite the everlearner. With that 
 * :vulcan_salute: Javascript;
 * :snake: A little bit of Python.
 
-### Dreaming about a...
+### Dreaming about
 
 * :strawberry: Raspberry PI.
 

@@ -32,4 +32,4 @@ As a very energetic and adaptable person, I am quite the everlearner. With that 
 
 ### Reach Me At
 
-* :india: [LinkedIn](https://www.linkedin.com/in/rodrigo-noal/)
+* [LinkedIn](https://www.linkedin.com/in/rodrigo-noal/)
